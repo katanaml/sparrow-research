@@ -2,7 +2,7 @@
 
 ## Description
 
-This is old source code repo, check the new one [Sparrow](https://github.com/katanaml/sparrow)
+This is research source code repo, check the PROD [Sparrow](https://github.com/katanaml/sparrow)
 
 Sparrow helps to extract and process data from scanned documents and pictures. It works with forms, invoices, receipts and other structured data.
 
