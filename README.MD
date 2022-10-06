@@ -1,4 +1,4 @@
-# Sparrow - Data extraction from documents with ML
+# Sparrow Research - Data extraction from documents with ML
 
 ## Description
 
