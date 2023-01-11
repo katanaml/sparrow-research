@@ -24,7 +24,7 @@ python main.py
 
 4. LayoutXLM model fine [tuning](https://github.com/katanaml/sparrow-research/blob/main/sparrow-research/app/Fine_tuning_LayoutLXM_on_FUNSD.ipynb) with FUNSD dataset using PyTorch and Transformers [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/16bKTkih-SkuE8Ckbp3rOpJ8p8paAVzrw?usp=sharing)
 
-5. LayoutLMv2 [inference](https://github.com/katanaml/sparrow/blob/main/sparrow-research/app/Inference_with_LayoutLMv2ForTokenClassification_CORD.ipynb), trained with CORD dataset [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1zx1awZB9BbBCKPddvMK7tR1i4iN_wGrO?usp=sharing)
+5. LayoutLMv2 [inference](https://github.com/katanaml/sparrow-research/blob/main/sparrow-research/app/Inference_with_LayoutLMv2ForTokenClassification_CORD.ipynb), trained with CORD dataset [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1zx1awZB9BbBCKPddvMK7tR1i4iN_wGrO?usp=sharing)
 
 6. LayoutLMv2 true [inference](https://github.com/katanaml/sparrow-research/blob/main/sparrow-research/app/True_Inference_with_LayoutLMv2ForTokenClassification_CORD.ipynb), trained with CORD dataset [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1g1b5gSaOr4awkILH6yOr1p1z2HrBPPNf?usp=sharing)
 
